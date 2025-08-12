@@ -14,7 +14,7 @@ public class PositivoOuNegativo {
     public static void main(String[] args) {
         Scanner caixaDeTexto = new Scanner(System.in);
 
-        System.out.println("Digite um numero: ");
+        System.out.println("Digite um numero de 1 a 12: ");
         int entrada = caixaDeTexto.nextInt();
 
         if (entrada > 0) {
