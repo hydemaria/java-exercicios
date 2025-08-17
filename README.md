@@ -1,6 +1,7 @@
 # Java Exercises – w3resource
 
 Este repositório reúne meus estudos práticos em Java, com base nos exercícios do site [w3resource](https://www.w3resource.com/java-exercises/basic/index.php).  
+Exercícios gerados com ajuda do ChatGPT, organizados para facilitar a visualização e revisão de conceitos.
 Aqui, transformo desafios em aprendizado, codificando soluções para problemas clássicos de programação.
 
 ## Objetivo
